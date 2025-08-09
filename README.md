@@ -1,4 +1,5 @@
 # Linear-Algebra-on-GPU
+A simple project for learning to build CUDA kernel. I will implement and upload more functions. 
 
 ## Functions
 
