@@ -12,7 +12,7 @@
 8. Matrix Transpose
 
 ## Environment
-NVIDIA GPU 
+NVIDIA GPU  
 CUDA toolkit
 
 ## Execute
